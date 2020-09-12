@@ -1,4 +1,4 @@
-# pdl-ibm-cloudpac
+# pdl-ibm-cloudpak
 
 This repo consists of jupyter notebooks used for PDL data ingestion for [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data/resources).  These are basic templates used for loading data via our API or flatfile consisting of JSON, CSV and Parquet formats.
 
