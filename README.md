@@ -6,10 +6,11 @@ This repo consists of jupyter notebooks used for PDL data ingestion for [IBM Clo
 ## IBM Cloud Pak for Data
 
 1. [**Acquiring Data**](https://calendly.com/justin-connell/ibm-cloud-pak-for-data-people-data-labs-intro-meeting?month=2020-08)  - Scheduling Consultation
-2. [**Our Data**](doc:data-build)  - An overview of the dataset 
-3. [**API**](doc:quickstart) - Get up and running with the API 
-4. [**Stats**](doc:datasets) - Stats on our dataset 
-5. [**Open Data**](doc:open-data) - Our free datasets
+2. [**Our Data**](https://docs.peopledatalabs.com/docs/data-build)  - An overview of the dataset 
+3. [**API**](https://docs.peopledatalabs.com/docs/quickstart) - Get up and running with the API 
+4. [**Stats**](https://docs.peopledatalabs.com/docs/datasets) - Stats on our dataset 
+5. [**Company Dataset**](https://www.peopledatalabs.com/company-dataset) - Free company data
+6. [**Job Title Dataset**](https://www.peopledatalabs.com/related-title-dataset) - Free job title data
 6. [**S3 Bucket Setup Instructions**](doc:receiving-and-updating-data) - Information for our customers
 
 ### External Data Sets
