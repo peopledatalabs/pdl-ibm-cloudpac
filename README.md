@@ -1,4 +1,5 @@
 # pdl-ibm-cloudpak
+The number of applications that rely on data to deliver innovative solutions is increasing every day and this is especially true for people data. In order to create trusted data-driven products at scale, more and more companies are requiring that they have a single source of truth built upon [validated and compliant](https://docs.peopledatalabs.com/docs/data-sources) data with coverage across [a wide array of data points](doc:fields). People Data Labs provides this data on over 1 billion people globally. Our data is the trusted backend of hundreds of applications that derive insights and provide value creating services spanning most industries driving hundreds of use cases.
 
 This repo consists of jupyter notebooks used for PDL data ingestion for [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data/resources).  These are basic templates used for loading data via our API or flatfile consisting of JSON, CSV and Parquet formats.
 
@@ -6,9 +7,9 @@ This repo consists of jupyter notebooks used for PDL data ingestion for [IBM Clo
 ## IBM Cloud Pak for Data
 
 1. [**Acquiring Data**](https://calendly.com/justin-connell/ibm-cloud-pak-for-data-people-data-labs-intro-meeting?month=2020-08)  - Scheduling Consultation
-2. [**Our Data**](https://docs.peopledatalabs.com/docs/data-build)  - An overview of the dataset 
-3. [**API**](https://docs.peopledatalabs.com/docs/quickstart) - Get up and running with the API 
-4. [**Stats**](https://docs.peopledatalabs.com/docs/datasets) - Stats on our dataset 
+2. [**Our Data**](https://docs.peopledatalabs.com/docs/data-build)  - An overview of the dataset
+3. [**API**](https://docs.peopledatalabs.com/docs/quickstart) - Get up and running with the API
+4. [**Stats**](https://docs.peopledatalabs.com/docs/datasets) - Stats on our dataset
 5. [**Company Dataset**](https://www.peopledatalabs.com/company-dataset) - Free company data
 6. [**Job Title Dataset**](https://www.peopledatalabs.com/related-title-dataset) - Free job title data
 6. [**S3 Bucket Setup Instructions**](https://docs.peopledatalabs.com/docs/receiving-and-updating-data) - Information for our customers
@@ -20,10 +21,10 @@ IBM® Cloud Pak for Data has partnered with industry leaders to provide easy and
 
 The data sets make it easy for data scientists to access the data that they need from the same platform where they run build and run their analytic models.
 
-The following guides outline how to ingest PeopleDataLabs API and Flatfile product offerings into the [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data/resources): 
- 
+The following guides outline how to ingest PeopleDataLabs API and Flatfile product offerings into the [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data/resources):
+
 ### Ingestion Guides
-1.  [**PDL API -> MongoDB**](https://docs.peopledatalabs.com/page/ibm-cloud-pack-documentation-api) 
+1.  [**PDL API -> MongoDB**](https://docs.peopledatalabs.com/page/ibm-cloud-pack-documentation-api)
 2.  [**PDL JSON Flat File -> MongoDB**](https://docs.peopledatalabs.com/page/ibm-cloud-pack-documentation)
 **Size Considerations** - Flat file sizes are determined upon the data slice or License purchased.  Slices or Licenses range from 5 Gig to 360 Gig.  Please speak with Justin Connell <justin@peopledatalabs.com> if there are any questions.
 
