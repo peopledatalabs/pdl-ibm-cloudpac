@@ -25,7 +25,7 @@ The following guides outline how to ingest PeopleDataLabs API and Flatfile produ
 
 ### Ingestion Guides
 1.  [**PDL API -> MongoDB**](https://docs.peopledatalabs.com/page/ibm-cloud-pack-documentation-api)
-2.  [**PDL JSON Flat File -> MongoDB**](https://docs.peopledatalabs.com/page/ibm-cloud-pack-documentation)
+2.  [**PDL Flat File -> MongoDB**](https://docs.peopledatalabs.com/page/ibm-cloud-pack-documentation)
 **Size Considerations** - Flat file sizes are determined upon the data slice or License purchased.  Slices or Licenses range from 5 Gig to 360 Gig.  Please speak with Justin Connell <justin@peopledatalabs.com> if there are any questions.
 
  From here you will have access to IBM's cutting edge Cloud Analytics backed by WATSON powered AI.
